@@ -1,6 +1,4 @@
-Programa de Pós-Graduação em Ciências Geodésicas
-
-Universidade Federal do Paraná
+Programa de Pós-Graduação em Ciências Geodésicas - Universidade Federal do Paraná
 
 Aplicação TM_Proj
 
