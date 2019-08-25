@@ -1,7 +1,7 @@
 A aplicação permite a obtenção da projeção cartográfica mais adequada entre o sistema UTM, RTM ou LTM com base na área de estudo, escolhida, de acordo com a necessidade do usuário.
 
 Para o funcionamento da aplicação, deverão ser introduzidos os seguintes elementos na interface: 
-  * escolha da projeção UTM, RTM ou LTM ou a opção AUTO*;
+  * escolha da projeção UTM, RTM ou LTM ou a opção AUTO;
   * fuso UTM da área de interesse;
   * arquivo da área de interesse no formato shapefile.
   
