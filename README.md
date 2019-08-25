@@ -1,3 +1,8 @@
+Programa de Pós-Graduação em Ciências Geodésicas
+Universidade Federal do Paraná
+
+Aplicação TM_Proj
+
 A aplicação permite a obtenção da projeção cartográfica mais adequada entre o sistema UTM, RTM ou LTM com base na área de estudo, escolhida, de acordo com a necessidade do usuário.
 
 Para o funcionamento da aplicação, deverão ser introduzidos os seguintes elementos na interface: 
@@ -12,4 +17,5 @@ No final, a aplicação permitirá salvar a área projetada no formato shapefile
   * valor do Meridiano Central;
   * distorção de escala com base no centróide da área.
   
+Mais informaçãos entrar em contato com: samoelgiehl@gmail.com ou elias_naim2008@hotmail.com
 
