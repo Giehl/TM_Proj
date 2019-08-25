@@ -9,7 +9,7 @@ A opção AUTO possibilita que a área de interesse do usuário seja projetada a
 
 No final, a aplicação permitirá salvar a área projetada no formato shapefile em qualquer diretório do computador e ainda fornecerá as seguintes informações:
   * projeção empregada;
-  * valor do fuso;
+  * valor do Meridiano Central;
   * distorção de escala com base no centróide da área.
   
 
