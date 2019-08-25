@@ -7,7 +7,7 @@ Para o funcionamento da aplicação, deverão ser introduzidos os seguintes elem
   
 A opção AUTO possibilita que a área de interesse do usuário seja projetada automaticamente para o sistema UTM, RTM ou LTM mais adequado, com base na amplitude da área em longitude e na distorção de escala no centróide da área.
 
-No final, a aplicação permitirá salvar o shapefile projetado em qualquer diretório do computador e ainda fornecerá as seguintes informações:
+No final, a aplicação permitirá salvar a área projetada no formato shapefile em qualquer diretório do computador e ainda fornecerá as seguintes informações:
   * projeção empregada;
   * valor do fuso;
   * distorção de escala com base no centróide da área.
